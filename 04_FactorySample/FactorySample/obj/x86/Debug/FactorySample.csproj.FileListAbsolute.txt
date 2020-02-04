@@ -1,0 +1,5 @@
+C:\Users\olexd\Desktop\04_FactorySample\FactorySample\bin\Debug\FactorySample.exe
+C:\Users\olexd\Desktop\04_FactorySample\FactorySample\bin\Debug\FactorySample.pdb
+C:\Users\olexd\Desktop\04_FactorySample\FactorySample\obj\x86\Debug\FactorySample.csprojAssemblyReference.cache
+C:\Users\olexd\Desktop\04_FactorySample\FactorySample\obj\x86\Debug\FactorySample.exe
+C:\Users\olexd\Desktop\04_FactorySample\FactorySample\obj\x86\Debug\FactorySample.pdb
